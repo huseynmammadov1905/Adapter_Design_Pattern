@@ -1,0 +1,15 @@
+C:\Users\memme\source\repos\AdapterDesignPatternTask\AdapterDesignPatternTask\bin\Debug\net6.0\AdapterDesignPatternTask.exe
+C:\Users\memme\source\repos\AdapterDesignPatternTask\AdapterDesignPatternTask\bin\Debug\net6.0\AdapterDesignPatternTask.deps.json
+C:\Users\memme\source\repos\AdapterDesignPatternTask\AdapterDesignPatternTask\bin\Debug\net6.0\AdapterDesignPatternTask.runtimeconfig.json
+C:\Users\memme\source\repos\AdapterDesignPatternTask\AdapterDesignPatternTask\bin\Debug\net6.0\AdapterDesignPatternTask.dll
+C:\Users\memme\source\repos\AdapterDesignPatternTask\AdapterDesignPatternTask\bin\Debug\net6.0\AdapterDesignPatternTask.pdb
+C:\Users\memme\source\repos\AdapterDesignPatternTask\AdapterDesignPatternTask\obj\Debug\net6.0\AdapterDesignPatternTask.csproj.AssemblyReference.cache
+C:\Users\memme\source\repos\AdapterDesignPatternTask\AdapterDesignPatternTask\obj\Debug\net6.0\AdapterDesignPatternTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\source\repos\AdapterDesignPatternTask\AdapterDesignPatternTask\obj\Debug\net6.0\AdapterDesignPatternTask.AssemblyInfoInputs.cache
+C:\Users\memme\source\repos\AdapterDesignPatternTask\AdapterDesignPatternTask\obj\Debug\net6.0\AdapterDesignPatternTask.AssemblyInfo.cs
+C:\Users\memme\source\repos\AdapterDesignPatternTask\AdapterDesignPatternTask\obj\Debug\net6.0\AdapterDesignPatternTask.csproj.CoreCompileInputs.cache
+C:\Users\memme\source\repos\AdapterDesignPatternTask\AdapterDesignPatternTask\obj\Debug\net6.0\AdapterDesignPatternTask.dll
+C:\Users\memme\source\repos\AdapterDesignPatternTask\AdapterDesignPatternTask\obj\Debug\net6.0\refint\AdapterDesignPatternTask.dll
+C:\Users\memme\source\repos\AdapterDesignPatternTask\AdapterDesignPatternTask\obj\Debug\net6.0\AdapterDesignPatternTask.pdb
+C:\Users\memme\source\repos\AdapterDesignPatternTask\AdapterDesignPatternTask\obj\Debug\net6.0\AdapterDesignPatternTask.genruntimeconfig.cache
+C:\Users\memme\source\repos\AdapterDesignPatternTask\AdapterDesignPatternTask\obj\Debug\net6.0\ref\AdapterDesignPatternTask.dll
